@@ -1,0 +1,9 @@
+{
+	"name": "express-html",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "^4.11.0",
+		"gpio": "^0.2.10",
+		"rpi-gpio": "^1.0.0"
+	}
+}
